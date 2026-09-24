@@ -182,6 +182,10 @@ JPL RL06、GFZ RL06 / RL06.3 及 TN-13 / TN-14）。
 **彭桢燃（Zhenran Peng）** · 中国地质大学（武汉）· zhenran.peng@cug.edu.cn
 课题组公众号：地球重力与人类生活（TVGG）
 
+<img src="docs/地球重力与人类生活TVGG.jpg" alt="课题组公众号：地球重力与人类生活（TVGG）二维码" width="200">
+
+扫码关注课题组公众号，获取 GRACE 数据处理方法与工具更新。
+
 问题反馈与功能建议欢迎提 [Issue](https://github.com/pengzhenran/GRACE-Downloader/issues)。
 
 ---
