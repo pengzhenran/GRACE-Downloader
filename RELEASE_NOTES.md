@@ -14,6 +14,22 @@
 
 ---
 
+## 安装包校验（SHA256）
+
+下载 `GRACE_Downloader_Setup_v1.0.1.exe`（51,569,584 字节）后建议校验：
+
+```
+7DF64DB303C7DFFEE1355AF74349E3F189799EB038157E8301E4A09C235263F7
+```
+
+PowerShell 一行校验：
+
+```powershell
+(Get-FileHash .\GRACE_Downloader_Setup_v1.0.1.exe -Algorithm SHA256).Hash
+```
+
+---
+
 ## 本版更新（v1.0 → v1.0.1）
 
 | 变更 | 说明 |
